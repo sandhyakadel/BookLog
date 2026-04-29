@@ -86,6 +86,3 @@ All 9 tests should pass.
 - A rating system for finished books could be added in the future
 - A stats command showing reading progress is a planned future feature
 
-exit code 0
-
-
